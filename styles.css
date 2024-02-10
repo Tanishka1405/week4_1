@@ -8,4 +8,5 @@ img{
     width: 500px;
     height: 600px;
     border-radius: 10%;
+    border: 3px solid black;
 }
